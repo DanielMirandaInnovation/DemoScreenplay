@@ -1,0 +1,12 @@
+com/pageautomation/automation/interactions/OpenTheBrowser.java
+ com.pageautomation.automation.interactions.OpenTheBrowser
+com/pageautomation/automation/ui/LoginPage.java
+ com.pageautomation.automation.ui.LoginPage
+com/pageautomation/automation/questions/GetTextElementQuestion.java
+ com.pageautomation.automation.questions.GetTextElementQuestion
+com/pageautomation/automation/utils/SpecialMethods.java
+ com.pageautomation.automation.utils.SpecialMethods
+com/pageautomation/automation/tasks/SecureAreaValidations.java
+ com.pageautomation.automation.tasks.SecureAreaValidations
+com/pageautomation/automation/tasks/SetLogin.java
+ com.pageautomation.automation.tasks.SetLogin
